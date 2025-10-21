@@ -1,0 +1,3 @@
+﻿query,timeliness_score,label,primary_reason,sub_reason,test_avg_age_top5,baseline_avg_age_top5,test_query_level,test_fresh_ratio_7d,baseline_fresh_ratio_7d
+2025年诺贝尔奖获得者,22.78,时效性差,原因1_识别错误,高时效query被误判为其他时效,530.6499999999999,2.9041666666666663,其他时效,0.2,1.0
+华为Mate70什么时候发布,21.94,时效性差,原因1_识别错误,高时效query被误判为其他时效,439.7666666666666,2.2875,其他时效,0.2,1.0
